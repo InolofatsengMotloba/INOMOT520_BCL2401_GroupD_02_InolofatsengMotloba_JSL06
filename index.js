@@ -58,6 +58,7 @@ function addToOrder(itemName) {
 // Function to initialize the menu system
 function initMenuSystem(menu) {
     // Call the function to display menu items
+    displayMenuItems(menu);
 }
 
 //A function to remove the menu items when clicked needs to be added
